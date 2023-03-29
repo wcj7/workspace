@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<Data>
+<Train>
+<!Schedule and Text message>
+<ScheduleMsg >
+<start>xxxxxxxxxxxx</start>
+<end>xxxxxxxxxxxx</end>
+<interv>xxxxxxxxxxx</interv>
+<RepeatMsg>xxxxxxxxxxx</RepeatMsg>
+</ScheduleMsg>
+<AudioSync>1</AudioSync>
+<ScrollMsg>xxxxxxxxxxx</ScrollMsg>
+<OverlayPriority>xxxxxxxxxxx</OverlayPriority>
+</Train>
+</Data>
+</Message>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<Data>
+<Train>
+<MsgID>7</MsgID>
+<MsgLang>1</MsgLang>
+<TxtMsg1>sssss</TxtMsg1>
+<TxtMsg2>dsffjkd</TxtMsg2>
+<TxtMsg3>宋</TxtMsg3>
+</Train>
+</Data>
+</Message>

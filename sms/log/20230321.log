@@ -1,0 +1,109 @@
+[2023-03-21T10:07:47] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:09:48] INFO: select positive return, ret 1
+[2023-03-21T10:09:48] INFO: Sock 5  receive data : 0
+[2023-03-21T10:09:48] ERROR: Sock 5  error !!!!
+[2023-03-21T10:09:48] Error: TCP is in error 0.0.0.0:9999
+[2023-03-21T10:09:58] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:09:58] Error: connect failed 
+[2023-03-21T10:10:08] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:10:08] Error: connect failed 
+[2023-03-21T10:10:18] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:10:18] Error: connect failed 
+[2023-03-21T10:10:28] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:10:51] INFO: select positive return, ret 1
+[2023-03-21T10:10:51] INFO: Sock 3  receive data : 3
+[2023-03-21T10:10:51] INFO: udp receive data length 3 , trainNo: 309
+[2023-03-21T10:10:51] INFO: Send train No: 309
+[2023-03-21T10:10:52] INFO: select positive return, ret 1
+[2023-03-21T10:10:52] INFO: Sock 9  receive data : 178
+[2023-03-21T10:10:52] INFO: unpack info 147:178:255 --- 178
+[2023-03-21T10:10:52] INFO: Get ACK from SIEMENTS ack: 0[2023-03-21T10:11:20] INFO: select positive return, ret 1
+[2023-03-21T10:11:20] INFO: Sock 9  receive data : 606
+[2023-03-21T10:11:20] INFO: unpack info 575:606:255 --- 606
+[2023-03-21T10:41:47] INFO: connect server  0.0.0.0: 9999
+[2023-03-21T10:42:00] INFO: select positive return, ret 1
+[2023-03-21T10:42:00] INFO: Sock 3  receive data : 3
+[2023-03-21T10:42:00] INFO: udp receive data length 3 , trainNo: 309
+[2023-03-21T10:42:00] INFO: Send train No: 309
+[2023-03-21T10:42:01] INFO: select positive return, ret 1
+[2023-03-21T10:42:01] INFO: Sock 5  receive data : 178
+[2023-03-21T10:42:01] INFO: unpack info 147:178:255 --- 178
+[2023-03-21T10:42:01] INFO: Get ACK from SIEMENTS ack: 0[2023-03-21T10:42:27] INFO: select positive return, ret 1
+[2023-03-21T10:42:27] INFO: Sock 5  receive data : 606
+[2023-03-21T10:42:27] INFO: unpack info 575:606:255 --- 606
+[2023-03-21T10:42:27] ERROR: Parse xml element failure ... AudioSync
+[2023-03-21T10:42:27] INFO: Send ACK Sq: 0, Errcode: 1
+[2023-03-21T10:42:52] INFO: select positive return, ret 1
+[2023-03-21T10:42:52] INFO: Sock 5  receive data : 615
+[2023-03-21T10:42:52] INFO: unpack info 584:615:255 --- 615
+[2023-03-21T10:42:52] ERROR: Parse xml element failure ... AudioSync
+[2023-03-21T10:42:52] INFO: Send ACK Sq: 1, Errcode: 1
+[2023-03-21T10:43:07] INFO: select positive return, ret 1
+[2023-03-21T10:43:07] INFO: Sock 5  receive data : 612
+[2023-03-21T10:43:07] INFO: unpack info 581:612:255 --- 612
+[2023-03-21T10:43:07] WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679366587 
+[2023-03-21T10:43:07] INFO: add the MsgId 12 to task list
+[2023-03-21T10:43:07] INFO: Send ACK Sq: 2, Errcode: 0
+[2023-03-21T10:43:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:44:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:45:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:46:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:47:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:48:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:49:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:50:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:51:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:52:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:53:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:53:15] INFO: select positive return, ret 1
+[2023-03-21T10:53:15] INFO: Sock 5  receive data : 659
+[2023-03-21T10:53:15] INFO: unpack info 628:659:255 --- 659
+[2023-03-21T10:53:15] ERROR: Parse xml element failure ... AudioSync
+[2023-03-21T10:53:15] INFO: Send ACK Sq: 3, Errcode: 1
+[2023-03-21T10:54:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:55:07] INFO: select positive return, ret 1
+[2023-03-21T10:55:07] INFO: Sock 5  receive data : 649
+[2023-03-21T10:55:07] INFO: unpack info 618:649:255 --- 649
+[2023-03-21T10:55:07] ERROR: Parse xml element failure ... AudioSync
+[2023-03-21T10:55:07] INFO: Send ACK Sq: 4, Errcode: 1
+[2023-03-21T10:55:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:56:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:57:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:58:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T10:58:49] INFO: select positive return, ret 1
+[2023-03-21T10:58:49] INFO: Sock 5  receive data : 637
+[2023-03-21T10:58:49] INFO: unpack info 606:637:255 --- 637
+[2023-03-21T10:58:49] ERROR: Parse xml time failure xxxxxxxxxxx:xxxxxxxxxxx 
+[2023-03-21T10:58:49] INFO: Send ACK Sq: 5, Errcode: 1
+[2023-03-21T10:59:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:00:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:01:01] INFO: select positive return, ret 1
+[2023-03-21T11:01:01] INFO: Sock 5  receive data : 639
+[2023-03-21T11:01:01] INFO: unpack info 608:639:255 --- 639
+[2023-03-21T11:01:01] ERROR: xml content not match the requirment, exception hanpen in string to int
+[2023-03-21T11:01:01] INFO: Send ACK Sq: 6, Errcode: 1
+[2023-03-21T11:01:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:02:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:03:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:04:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:05:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:06:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:07:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:08:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:09:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:10:07] INFO: Udp send to 0.0.0.0:9997 
+[2023-03-21T11:11:52] netData.cpp:line 206 INFO: connect server  0.0.0.0: 9999
+[2023-03-21T11:13:20] netData.cpp(line 206): INFO: connect server  0.0.0.0: 9999
+[2023-03-21T11:14:25] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-21T13:08:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-21T13:08:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-21T13:08:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 309
+[2023-03-21T13:08:40] netData.cpp[258]: INFO: Send train No: 309
+[2023-03-21T13:08:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-21T13:08:40] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-21T13:08:40] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-21T13:08:40] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-21T13:09:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-21T13:09:24] netService.cpp[148]: INFO: Sock 5  receive data : 639
+[2023-03-21T13:09:24] netData.cpp[136]: INFO: unpack info 608:639:255 --- 639
+[2023-03-21T13:09:24] netData.cpp[85]: ERROR: xml content not match the requirment, exception hanpen in string to int
+[2023-03-21T13:09:24] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 1

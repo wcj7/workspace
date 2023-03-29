@@ -1,0 +1,241 @@
+[2023-03-23T10:39:05] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T10:50:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:50:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T10:50:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 309
+[2023-03-23T10:50:29] netData.cpp[258]: INFO: Send train No: 309
+[2023-03-23T10:50:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:50:29] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T10:50:29] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T10:50:29] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T10:50:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:50:49] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T10:50:49] netData.cpp[136]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T10:50:49] netData.cpp[106]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679539849 
+[2023-03-23T10:50:49] taskManager.cpp[55]: INFO: add the MsgId 12 to task list
+[2023-03-23T10:50:49] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 0
+[2023-03-23T10:50:49] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T10:53:04] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T10:53:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:53:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T10:53:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 310
+[2023-03-23T10:53:10] netData.cpp[258]: INFO: Send train No: 310
+[2023-03-23T10:53:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:53:11] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T10:53:11] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T10:53:11] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T10:53:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:53:23] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T10:53:23] netData.cpp[136]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T10:53:23] netData.cpp[106]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679540003 
+[2023-03-23T10:53:23] taskManager.cpp[55]: INFO: add the MsgId 12 to task list
+[2023-03-23T10:53:23] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 0
+[2023-03-23T10:53:23] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T10:53:23] netData.cpp[313]: INFO:after Udp send to 0.0.0.0:9997 
+[2023-03-23T10:55:59] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T10:56:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:56:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T10:56:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 311
+[2023-03-23T10:56:13] netData.cpp[258]: INFO: Send train No: 311
+[2023-03-23T10:56:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:56:13] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T10:56:13] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T10:56:13] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T10:56:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:56:25] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T10:56:25] netData.cpp[136]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T10:56:25] netData.cpp[106]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679540185 
+[2023-03-23T10:56:25] taskManager.cpp[57]: INFO: add the MsgId 12 to task list
+[2023-03-23T10:56:25] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 0
+[2023-03-23T10:56:25] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T10:56:25] netData.cpp[313]: INFO:after Udp send to 0.0.0.0:9997 
+[2023-03-23T10:56:25] taskManager.cpp[29]: INFO: 7777777
+[2023-03-23T10:56:25] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:33] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T10:57:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:57:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T10:57:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 312
+[2023-03-23T10:57:43] netData.cpp[258]: INFO: Send train No: 312
+[2023-03-23T10:57:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:57:43] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T10:57:43] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T10:57:43] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T10:57:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:57:54] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T10:57:54] netData.cpp[136]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T10:57:54] netData.cpp[106]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679540274 
+[2023-03-23T10:57:54] taskManager.cpp[58]: INFO: add the MsgId 12 to task list
+[2023-03-23T10:57:54] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 0
+[2023-03-23T10:57:54] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T10:57:54] netData.cpp[313]: INFO:after Udp send to 0.0.0.0:9997 
+[2023-03-23T10:57:54] taskManager.cpp[29]: INFO: 7777777
+[2023-03-23T10:57:54] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:54] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:55] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:55] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:56] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:56] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:57] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:57] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:58] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:58] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:59] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:57:59] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:00] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:00] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:01] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:01] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:02] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:02] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:03] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:03] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:04] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:04] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:05] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:05] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:06] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:06] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:07] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:07] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:08] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:08] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:09] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:09] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:10] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:10] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:11] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:11] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:12] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:12] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:13] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:13] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:14] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:14] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:15] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:15] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:16] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:16] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:17] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:17] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:18] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:18] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:19] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:19] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:20] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:20] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:21] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:21] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:22] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:22] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:23] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:23] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:24] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:24] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:25] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:25] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:26] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:26] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:27] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:27] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:28] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:28] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:29] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:29] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:30] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:31] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:31] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:32] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:32] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:33] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:33] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:34] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:34] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:35] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:35] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:36] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:36] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:37] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:37] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:38] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:38] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:39] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:39] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:40] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:40] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:41] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:41] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:42] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:42] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:43] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:43] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:44] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:44] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:45] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:45] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:46] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:46] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:47] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:47] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:48] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:48] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:49] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:49] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:50] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:50] taskManager.cpp[40]: INFO: 999999
+[2023-03-23T10:58:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T10:58:51] netService.cpp[148]: INFO: Sock 5  receive data : 590
+[2023-03-23T10:58:51] netData.cpp[136]: INFO: unpack info 559:590:255 --- 590
+[2023-03-23T10:58:51] taskManager.cpp[51]: INFO: remove the MsgId 0 for SIEMENTS server query
+[2023-03-23T11:08:51] netData.cpp[207]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T11:08:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:08:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T11:08:57] netData.cpp[304]: INFO: udp receive data length 3 , trainNo: 313
+[2023-03-23T11:08:57] netData.cpp[259]: INFO: Send train No: 313
+[2023-03-23T11:08:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:08:58] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T11:08:58] netData.cpp[137]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T11:08:58] netData.cpp[149]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T11:09:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:09:09] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T11:09:09] netData.cpp[137]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T11:09:09] netData.cpp[107]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679540949 
+[2023-03-23T11:09:09] taskManager.cpp[59]: INFO: add the MsgId 12 to task list
+[2023-03-23T11:09:09] netData.cpp[275]: INFO: Send ACK Sq: 0, Errcode: 0
+[2023-03-23T11:09:09] netData.cpp[312]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T11:09:09] netData.cpp[314]: INFO:after Udp send to 0.0.0.0:9997 
+[2023-03-23T11:10:16] netData.cpp[207]: INFO: connect server  0.0.0.0: 9999
+[2023-03-23T11:10:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:10:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-23T11:10:39] netData.cpp[304]: INFO: udp receive data length 3 , trainNo: 314
+[2023-03-23T11:10:40] netData.cpp[259]: INFO: Send train No: 314
+[2023-03-23T11:10:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:10:40] netService.cpp[148]: INFO: Sock 5  receive data : 178
+[2023-03-23T11:10:40] netData.cpp[137]: INFO: unpack info 147:178:255 --- 178
+[2023-03-23T11:10:40] netData.cpp[149]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-23T11:10:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:10:53] netService.cpp[148]: INFO: Sock 5  receive data : 639
+[2023-03-23T11:10:53] netData.cpp[137]: INFO: unpack info 608:639:255 --- 639
+[2023-03-23T11:10:53] netData.cpp[86]: ERROR: xml content not match the requirment, exception hanpen in string to int
+[2023-03-23T11:10:53] netData.cpp[275]: INFO: Send ACK Sq: 0, Errcode: 1
+[2023-03-23T11:11:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:11:13] netService.cpp[148]: INFO: Sock 5  receive data : 615
+[2023-03-23T11:11:13] netData.cpp[137]: INFO: unpack info 584:615:255 --- 615
+[2023-03-23T11:11:13] netData.cpp[45]: ERROR: Parse xml element failure ... AudioSync
+[2023-03-23T11:11:13] netData.cpp[275]: INFO: Send ACK Sq: 1, Errcode: 1
+[2023-03-23T11:12:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:12:12] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T11:12:12] netData.cpp[137]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T11:12:12] netData.cpp[107]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679541132 
+[2023-03-23T11:12:12] taskManager.cpp[59]: INFO: add the MsgId 12 to task list
+[2023-03-23T11:12:12] netData.cpp[275]: INFO: Send ACK Sq: 2, Errcode: 0
+[2023-03-23T11:12:12] netData.cpp[312]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T11:12:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:12:28] netService.cpp[148]: INFO: Sock 5  receive data : 612
+[2023-03-23T11:12:28] netData.cpp[137]: INFO: unpack info 581:612:255 --- 612
+[2023-03-23T11:12:28] netData.cpp[102]: ERROR: Parse time is invalid 202303191533:202303201552 
+[2023-03-23T11:12:28] netData.cpp[275]: INFO: Send ACK Sq: 3, Errcode: 4
+[2023-03-23T11:13:12] netData.cpp[312]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-23T11:13:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:13:33] netService.cpp[148]: INFO: Sock 5  receive data : 589
+[2023-03-23T11:13:33] netData.cpp[137]: INFO: unpack info 558:589:255 --- 589
+[2023-03-23T11:13:33] taskManager.cpp[45]: INFO: remove the MsgId 13 for SIEMENTS server query
+[2023-03-23T11:13:33] taskManager.cpp[54]: INFO: remove the MsgId 13 failed for not existing
+[2023-03-23T11:13:33] netData.cpp[275]: INFO: Send ACK Sq: 4, Errcode: 0
+[2023-03-23T11:13:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-23T11:13:54] netService.cpp[148]: INFO: Sock 5  receive data : 590
+[2023-03-23T11:13:54] netData.cpp[137]: INFO: unpack info 559:590:255 --- 590
+[2023-03-23T11:13:54] taskManager.cpp[45]: INFO: remove the MsgId 12 for SIEMENTS server query
+[2023-03-23T11:13:54] netData.cpp[275]: INFO: Send ACK Sq: 5, Errcode: 0

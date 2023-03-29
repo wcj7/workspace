@@ -1,0 +1,934 @@
+[2023-03-22T17:10:48] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-22T17:10:49] netData.cpp[223]: Error: connect failed 
+[2023-03-22T17:10:59] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-22T17:10:59] netData.cpp[223]: Error: connect failed 
+[2023-03-22T17:11:09] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-22T17:11:09] netData.cpp[223]: Error: connect failed 
+[2023-03-22T17:11:19] netData.cpp[206]: INFO: connect server  0.0.0.0: 9999
+[2023-03-22T17:27:06] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:06] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:06] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 309
+[2023-03-22T17:27:07] netData.cpp[258]: INFO: Send train No: 309
+[2023-03-22T17:27:07] netService.cpp[88]: INFO: select positive return, ret 2
+[2023-03-22T17:27:07] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:07] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 310
+[2023-03-22T17:27:07] netService.cpp[148]: INFO: Sock 8  receive data : 178
+[2023-03-22T17:27:07] netData.cpp[136]: INFO: unpack info 147:178:255 --- 178
+[2023-03-22T17:27:07] netData.cpp[148]: INFO: Get ACK from SIEMENTS ack: 0[2023-03-22T17:27:08] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:08] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:08] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 311
+[2023-03-22T17:27:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:09] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:09] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 312
+[2023-03-22T17:27:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 313
+[2023-03-22T17:27:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:11] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:11] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 314
+[2023-03-22T17:27:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 315
+[2023-03-22T17:27:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:13] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:13] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 316
+[2023-03-22T17:27:14] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:14] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:14] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 317
+[2023-03-22T17:27:15] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:15] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:15] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 318
+[2023-03-22T17:27:16] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:16] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:16] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 319
+[2023-03-22T17:27:17] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:17] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:17] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 320
+[2023-03-22T17:27:18] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:18] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:18] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 321
+[2023-03-22T17:27:19] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:19] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:19] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 322
+[2023-03-22T17:27:20] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:20] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:20] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 323
+[2023-03-22T17:27:21] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:21] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:21] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 324
+[2023-03-22T17:27:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 325
+[2023-03-22T17:27:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:23] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:23] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 326
+[2023-03-22T17:27:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:24] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:24] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 327
+[2023-03-22T17:27:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:25] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:25] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 328
+[2023-03-22T17:27:26] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:26] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:26] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 329
+[2023-03-22T17:27:27] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:27] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:27] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 330
+[2023-03-22T17:27:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 331
+[2023-03-22T17:27:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:29] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:29] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 332
+[2023-03-22T17:27:30] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:30] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:30] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 333
+[2023-03-22T17:27:31] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:31] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:31] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 334
+[2023-03-22T17:27:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 335
+[2023-03-22T17:27:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:33] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:33] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 336
+[2023-03-22T17:27:34] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:34] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:34] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 337
+[2023-03-22T17:27:35] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:35] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:35] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 338
+[2023-03-22T17:27:36] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:36] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:36] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 339
+[2023-03-22T17:27:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:37] netService.cpp[148]: INFO: Sock 8  receive data : 639
+[2023-03-22T17:27:37] netData.cpp[136]: INFO: unpack info 608:639:255 --- 639
+[2023-03-22T17:27:37] netData.cpp[85]: ERROR: xml content not match the requirment, exception hanpen in string to int
+[2023-03-22T17:27:37] netData.cpp[274]: INFO: Send ACK Sq: 0, Errcode: 1
+[2023-03-22T17:27:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:37] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:37] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 340
+[2023-03-22T17:27:38] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:38] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:38] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 341
+[2023-03-22T17:27:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 342
+[2023-03-22T17:27:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:40] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:40] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 343
+[2023-03-22T17:27:41] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:41] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:41] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 344
+[2023-03-22T17:27:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 345
+[2023-03-22T17:27:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:43] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:43] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 346
+[2023-03-22T17:27:44] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:44] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:44] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 347
+[2023-03-22T17:27:45] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:45] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:45] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 348
+[2023-03-22T17:27:46] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:46] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:46] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 349
+[2023-03-22T17:27:47] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:47] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:47] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 350
+[2023-03-22T17:27:48] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:48] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:48] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 351
+[2023-03-22T17:27:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:49] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:49] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 352
+[2023-03-22T17:27:50] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:50] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:50] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 353
+[2023-03-22T17:27:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:51] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:51] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 354
+[2023-03-22T17:27:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 355
+[2023-03-22T17:27:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:53] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:53] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 356
+[2023-03-22T17:27:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:54] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:54] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 357
+[2023-03-22T17:27:55] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:55] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:55] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 358
+[2023-03-22T17:27:56] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:56] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:56] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 359
+[2023-03-22T17:27:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:57] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 360
+[2023-03-22T17:27:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:58] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:58] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 361
+[2023-03-22T17:27:59] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:27:59] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:27:59] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 362
+[2023-03-22T17:28:00] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:00] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:00] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 363
+[2023-03-22T17:28:01] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:01] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:01] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 364
+[2023-03-22T17:28:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 365
+[2023-03-22T17:28:03] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:03] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:03] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 366
+[2023-03-22T17:28:04] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:04] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:04] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 367
+[2023-03-22T17:28:04] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:04] netService.cpp[148]: INFO: Sock 8  receive data : 612
+[2023-03-22T17:28:04] netData.cpp[136]: INFO: unpack info 581:612:255 --- 612
+[2023-03-22T17:28:04] netData.cpp[106]: WARNING: The Message is a little late, adjust begin time from  1679279400 to 1679477284 
+[2023-03-22T17:28:04] taskManager.cpp[51]: INFO: add the MsgId 12 to task list
+[2023-03-22T17:28:04] netData.cpp[274]: INFO: Send ACK Sq: 1, Errcode: 0
+[2023-03-22T17:28:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:28:05] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:05] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:05] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 368
+[2023-03-22T17:28:06] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:06] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:06] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 369
+[2023-03-22T17:28:07] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:07] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:07] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 370
+[2023-03-22T17:28:08] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:08] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:08] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 371
+[2023-03-22T17:28:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:09] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:09] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 372
+[2023-03-22T17:28:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 373
+[2023-03-22T17:28:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:11] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:11] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 374
+[2023-03-22T17:28:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 375
+[2023-03-22T17:28:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:13] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:13] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 376
+[2023-03-22T17:28:14] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:14] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:14] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 377
+[2023-03-22T17:28:15] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:15] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:15] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 378
+[2023-03-22T17:28:16] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:16] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:16] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 379
+[2023-03-22T17:28:17] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:17] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:17] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 380
+[2023-03-22T17:28:18] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:18] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:18] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 381
+[2023-03-22T17:28:19] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:19] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:19] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 382
+[2023-03-22T17:28:20] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:20] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:20] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 383
+[2023-03-22T17:28:21] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:21] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:21] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 384
+[2023-03-22T17:28:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 385
+[2023-03-22T17:28:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:23] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:23] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 386
+[2023-03-22T17:28:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:24] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:24] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 387
+[2023-03-22T17:28:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:25] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:25] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 388
+[2023-03-22T17:28:26] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:26] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:26] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 389
+[2023-03-22T17:28:27] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:27] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:27] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 390
+[2023-03-22T17:28:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 391
+[2023-03-22T17:28:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:29] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:29] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 392
+[2023-03-22T17:28:30] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:30] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:30] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 393
+[2023-03-22T17:28:31] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:31] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:31] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 394
+[2023-03-22T17:28:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 395
+[2023-03-22T17:28:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:33] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:33] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 396
+[2023-03-22T17:28:34] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:34] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:34] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 397
+[2023-03-22T17:28:35] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:35] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:35] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 398
+[2023-03-22T17:28:36] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:36] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:36] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 399
+[2023-03-22T17:28:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:37] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:37] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 400
+[2023-03-22T17:28:38] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:38] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:38] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 401
+[2023-03-22T17:28:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 402
+[2023-03-22T17:28:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:40] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:40] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 403
+[2023-03-22T17:28:41] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:41] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:41] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 404
+[2023-03-22T17:28:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 405
+[2023-03-22T17:28:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:43] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:43] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 406
+[2023-03-22T17:28:44] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:44] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:44] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 407
+[2023-03-22T17:28:45] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:45] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:45] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 408
+[2023-03-22T17:28:46] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:46] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:46] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 409
+[2023-03-22T17:28:47] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:47] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:47] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 410
+[2023-03-22T17:28:48] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:48] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:48] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 411
+[2023-03-22T17:28:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:49] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:49] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 412
+[2023-03-22T17:28:50] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:50] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:50] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 413
+[2023-03-22T17:28:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:51] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:51] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 414
+[2023-03-22T17:28:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 415
+[2023-03-22T17:28:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:53] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:53] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 416
+[2023-03-22T17:28:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:54] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:54] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 417
+[2023-03-22T17:28:55] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:55] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:55] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 418
+[2023-03-22T17:28:56] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:56] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:56] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 419
+[2023-03-22T17:28:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:57] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 420
+[2023-03-22T17:28:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:58] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:58] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 421
+[2023-03-22T17:28:59] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:28:59] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:28:59] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 422
+[2023-03-22T17:29:00] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:00] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:00] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 423
+[2023-03-22T17:29:01] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:01] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:01] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 424
+[2023-03-22T17:29:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 425
+[2023-03-22T17:29:03] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:03] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:03] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 426
+[2023-03-22T17:29:04] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:04] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:04] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 427
+[2023-03-22T17:29:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:29:05] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:05] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:05] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 428
+[2023-03-22T17:29:06] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:06] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:06] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 429
+[2023-03-22T17:29:07] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:07] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:07] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 430
+[2023-03-22T17:29:08] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:08] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:08] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 431
+[2023-03-22T17:29:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:09] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:09] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 432
+[2023-03-22T17:29:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 433
+[2023-03-22T17:29:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:11] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:11] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 434
+[2023-03-22T17:29:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 435
+[2023-03-22T17:29:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:13] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:13] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 436
+[2023-03-22T17:29:14] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:14] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:14] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 437
+[2023-03-22T17:29:15] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:15] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:15] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 438
+[2023-03-22T17:29:16] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:16] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:16] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 439
+[2023-03-22T17:29:17] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:17] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:17] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 440
+[2023-03-22T17:29:18] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:18] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:18] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 441
+[2023-03-22T17:29:19] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:19] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:19] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 442
+[2023-03-22T17:29:20] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:20] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:20] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 443
+[2023-03-22T17:29:21] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:21] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:21] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 444
+[2023-03-22T17:29:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 445
+[2023-03-22T17:29:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:23] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:23] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 446
+[2023-03-22T17:29:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:24] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:24] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 447
+[2023-03-22T17:29:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:25] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:25] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 448
+[2023-03-22T17:29:26] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:26] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:26] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 449
+[2023-03-22T17:29:27] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:27] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:27] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 450
+[2023-03-22T17:29:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 451
+[2023-03-22T17:29:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:29] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:29] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 452
+[2023-03-22T17:29:30] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:30] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:30] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 453
+[2023-03-22T17:29:31] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:31] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:31] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 454
+[2023-03-22T17:29:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 455
+[2023-03-22T17:29:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:33] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:33] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 456
+[2023-03-22T17:29:34] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:34] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:34] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 457
+[2023-03-22T17:29:35] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:35] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:35] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 458
+[2023-03-22T17:29:36] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:36] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:36] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 459
+[2023-03-22T17:29:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:37] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:37] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 460
+[2023-03-22T17:29:38] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:38] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:38] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 461
+[2023-03-22T17:29:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 462
+[2023-03-22T17:29:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:40] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:40] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 463
+[2023-03-22T17:29:41] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:41] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:41] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 464
+[2023-03-22T17:29:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 465
+[2023-03-22T17:29:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:43] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:43] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 466
+[2023-03-22T17:29:44] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:44] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:44] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 467
+[2023-03-22T17:29:45] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:45] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:45] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 468
+[2023-03-22T17:29:46] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:46] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:46] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 469
+[2023-03-22T17:29:47] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:47] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:47] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 470
+[2023-03-22T17:29:48] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:48] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:48] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 471
+[2023-03-22T17:29:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:49] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:49] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 472
+[2023-03-22T17:29:50] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:50] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:50] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 473
+[2023-03-22T17:29:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:51] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:51] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 474
+[2023-03-22T17:29:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 475
+[2023-03-22T17:29:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:53] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:53] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 476
+[2023-03-22T17:29:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:54] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:54] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 477
+[2023-03-22T17:29:55] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:55] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:55] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 478
+[2023-03-22T17:29:56] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:56] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:56] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 479
+[2023-03-22T17:29:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:57] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 480
+[2023-03-22T17:29:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:58] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:58] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 481
+[2023-03-22T17:29:59] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:29:59] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:29:59] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 482
+[2023-03-22T17:30:00] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:00] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:00] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 483
+[2023-03-22T17:30:01] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:01] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:01] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 484
+[2023-03-22T17:30:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 485
+[2023-03-22T17:30:03] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:03] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:03] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 486
+[2023-03-22T17:30:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:30:04] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:04] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:04] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 487
+[2023-03-22T17:30:05] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:05] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:05] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 488
+[2023-03-22T17:30:06] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:06] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:06] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 489
+[2023-03-22T17:30:07] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:07] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:07] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 490
+[2023-03-22T17:30:08] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:08] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:08] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 491
+[2023-03-22T17:30:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:09] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:09] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 492
+[2023-03-22T17:30:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 493
+[2023-03-22T17:30:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:11] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:11] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 494
+[2023-03-22T17:30:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 495
+[2023-03-22T17:30:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:13] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:13] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 496
+[2023-03-22T17:30:14] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:14] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:14] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 497
+[2023-03-22T17:30:15] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:15] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:15] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 498
+[2023-03-22T17:30:16] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:16] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:16] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 499
+[2023-03-22T17:30:17] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:17] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:17] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 500
+[2023-03-22T17:30:18] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:18] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:18] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 501
+[2023-03-22T17:30:19] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:19] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:19] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 502
+[2023-03-22T17:30:20] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:20] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:20] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 503
+[2023-03-22T17:30:21] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:21] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:21] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 504
+[2023-03-22T17:30:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 505
+[2023-03-22T17:30:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:23] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:23] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 506
+[2023-03-22T17:30:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:24] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:24] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 507
+[2023-03-22T17:30:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:25] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:25] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 508
+[2023-03-22T17:30:26] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:26] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:26] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 509
+[2023-03-22T17:30:27] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:27] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:27] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 510
+[2023-03-22T17:30:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 511
+[2023-03-22T17:30:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:29] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:29] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 512
+[2023-03-22T17:30:30] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:30] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:30] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 513
+[2023-03-22T17:30:31] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:31] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:31] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 514
+[2023-03-22T17:30:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 515
+[2023-03-22T17:30:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:33] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:33] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 516
+[2023-03-22T17:30:34] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:34] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:34] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 517
+[2023-03-22T17:30:35] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:35] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:35] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 518
+[2023-03-22T17:30:36] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:36] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:36] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 519
+[2023-03-22T17:30:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:37] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:37] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 520
+[2023-03-22T17:30:38] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:38] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:38] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 521
+[2023-03-22T17:30:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 522
+[2023-03-22T17:30:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:40] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:40] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 523
+[2023-03-22T17:30:41] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:41] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:41] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 524
+[2023-03-22T17:30:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 525
+[2023-03-22T17:30:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:43] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:43] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 526
+[2023-03-22T17:30:44] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:44] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:44] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 527
+[2023-03-22T17:30:45] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:45] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:45] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 528
+[2023-03-22T17:30:46] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:46] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:46] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 529
+[2023-03-22T17:30:47] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:47] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:47] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 530
+[2023-03-22T17:30:48] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:48] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:48] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 531
+[2023-03-22T17:30:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:49] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:49] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 532
+[2023-03-22T17:30:50] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:50] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:50] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 533
+[2023-03-22T17:30:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:51] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:51] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 534
+[2023-03-22T17:30:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 535
+[2023-03-22T17:30:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:53] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:53] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 536
+[2023-03-22T17:30:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:54] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:54] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 537
+[2023-03-22T17:30:55] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:55] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:55] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 538
+[2023-03-22T17:30:56] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:56] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:56] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 539
+[2023-03-22T17:30:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:57] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 540
+[2023-03-22T17:30:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:58] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:58] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 541
+[2023-03-22T17:30:59] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:30:59] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:30:59] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 542
+[2023-03-22T17:31:00] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:00] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:00] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 543
+[2023-03-22T17:31:01] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:01] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:01] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 544
+[2023-03-22T17:31:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 545
+[2023-03-22T17:31:03] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:03] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:03] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 546
+[2023-03-22T17:31:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:31:04] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:04] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:04] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 547
+[2023-03-22T17:31:05] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:05] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:05] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 548
+[2023-03-22T17:31:06] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:06] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:06] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 549
+[2023-03-22T17:31:07] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:07] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:07] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 550
+[2023-03-22T17:31:08] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:08] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:08] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 551
+[2023-03-22T17:31:09] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:09] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:09] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 552
+[2023-03-22T17:31:10] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:10] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:10] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 553
+[2023-03-22T17:31:11] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:11] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:11] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 554
+[2023-03-22T17:31:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 555
+[2023-03-22T17:31:13] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:13] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:13] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 556
+[2023-03-22T17:31:14] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:14] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:14] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 557
+[2023-03-22T17:31:15] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:15] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:15] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 558
+[2023-03-22T17:31:16] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:16] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:16] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 559
+[2023-03-22T17:31:17] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:17] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:17] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 560
+[2023-03-22T17:31:18] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:18] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:18] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 561
+[2023-03-22T17:31:19] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:19] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:19] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 562
+[2023-03-22T17:31:20] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:20] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:20] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 563
+[2023-03-22T17:31:21] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:21] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:21] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 564
+[2023-03-22T17:31:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 565
+[2023-03-22T17:31:23] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:23] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:23] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 566
+[2023-03-22T17:31:24] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:24] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:24] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 567
+[2023-03-22T17:31:25] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:25] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:25] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 568
+[2023-03-22T17:31:26] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:26] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:26] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 569
+[2023-03-22T17:31:27] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:27] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:27] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 570
+[2023-03-22T17:31:28] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:28] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:28] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 571
+[2023-03-22T17:31:29] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:29] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:29] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 572
+[2023-03-22T17:31:30] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:30] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:30] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 573
+[2023-03-22T17:31:31] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:31] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:31] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 574
+[2023-03-22T17:31:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 575
+[2023-03-22T17:31:33] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:33] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:33] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 576
+[2023-03-22T17:31:34] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:34] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:34] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 577
+[2023-03-22T17:31:35] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:35] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:35] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 578
+[2023-03-22T17:31:36] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:36] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:36] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 579
+[2023-03-22T17:31:37] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:37] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:37] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 580
+[2023-03-22T17:31:38] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:38] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:38] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 581
+[2023-03-22T17:31:39] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:39] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:39] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 582
+[2023-03-22T17:31:40] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:40] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:40] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 583
+[2023-03-22T17:31:41] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:41] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:41] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 584
+[2023-03-22T17:31:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 585
+[2023-03-22T17:31:43] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:43] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:43] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 586
+[2023-03-22T17:31:44] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:44] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:44] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 587
+[2023-03-22T17:31:45] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:45] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:45] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 588
+[2023-03-22T17:31:46] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:46] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:46] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 589
+[2023-03-22T17:31:47] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:47] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:47] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 590
+[2023-03-22T17:31:48] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:48] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:48] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 591
+[2023-03-22T17:31:49] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:49] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:49] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 592
+[2023-03-22T17:31:50] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:50] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:50] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 593
+[2023-03-22T17:31:51] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:51] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:51] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 594
+[2023-03-22T17:31:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 595
+[2023-03-22T17:31:53] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:53] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:53] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 596
+[2023-03-22T17:31:54] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:54] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:54] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 597
+[2023-03-22T17:31:55] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:55] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:55] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 598
+[2023-03-22T17:31:56] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:56] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:56] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 599
+[2023-03-22T17:31:57] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:57] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:57] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 600
+[2023-03-22T17:31:58] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:58] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:58] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 601
+[2023-03-22T17:31:59] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:31:59] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:31:59] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 602
+[2023-03-22T17:32:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 309
+[2023-03-22T17:32:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:32:12] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:12] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:12] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 310
+[2023-03-22T17:32:22] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:22] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:22] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 311
+[2023-03-22T17:32:32] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:32] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:32] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 312
+[2023-03-22T17:32:42] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:42] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:42] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 313
+[2023-03-22T17:32:52] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:32:52] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:32:52] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 314
+[2023-03-22T17:33:02] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:33:02] netService.cpp[148]: INFO: Sock 3  receive data : 3
+[2023-03-22T17:33:02] netData.cpp[303]: INFO: udp receive data length 3 , trainNo: 315
+[2023-03-22T17:33:04] netData.cpp[311]: INFO: Udp send to 0.0.0.0:9997 
+[2023-03-22T17:33:05] netService.cpp[88]: INFO: select positive return, ret 1
+[2023-03-22T17:33:05] netService.cpp[148]: INFO: Sock 8  receive data : 590
+[2023-03-22T17:33:05] netData.cpp[136]: INFO: unpack info 559:590:255 --- 590
+[2023-03-22T17:33:05] taskManager.cpp[44]: INFO: remove the MsgId 0 for SIEMENTS server query

@@ -1,0 +1,8 @@
+{
+	"Name":"media",
+	"Type":"tftp",
+	"CMD":"upgrade.sh",
+	"User":"root",
+	"Password":"hq123",
+	"IP":["11.3.11.1","11.3.16.1"]
+}

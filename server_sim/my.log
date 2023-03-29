@@ -1,0 +1,761 @@
+2023/03/02 18:56:43 E:/server_sim/main.go:19: App gets startup ...
+2023/03/02 19:52:16 E:/server_sim/main.go:19: App gets startup ...
+2023/03/02 19:52:16 E:/server_sim/main.go:22: Server is listening at port: 9999
+2023/03/02 19:52:41 E:/server_sim/server/tcpserver.go:138: unpack msg: pack size:175, packType:INF, msgLen 144, sq 0 leftdata 0
+2023/03/02 19:52:41 E:/server_sim/server/tcpserver.go:31: train num get success: 777
+2023/03/02 19:53:36 E:/server_sim/main.go:64: go to end 
+2023/03/02 19:53:36 E:/server_sim/server/tcpserver.go:90: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/02 19:55:55 E:/server_sim/main.go:19: App gets startup ...
+2023/03/02 19:55:55 E:/server_sim/main.go:22: Server is listening at port: 9999
+2023/03/02 19:57:25 E:/server_sim/server/tcpserver.go:139: unpack msg: pack size:175, packType:INF, msgLen 144, sq 0 leftdata 0
+2023/03/02 19:57:25 E:/server_sim/server/tcpserver.go:32: train num get success: 777
+2023/03/02 19:57:54 E:/server_sim/msg/msgadmin.go:18: Send msg in file:config\repeateMsg.xml
+2023/03/02 19:58:07 E:/server_sim/msg/msgadmin.go:18: Send msg in file:config\repeateMsg_OK.xml
+2023/03/02 19:58:22 E:/server_sim/msg/msgadmin.go:18: Send msg in file:config\Msg.xml
+2023/03/02 19:59:03 E:/server_sim/msg/msgadmin.go:15: No file has index as 4
+2023/03/02 19:59:09 E:/server_sim/msg/msgadmin.go:18: Send msg in file:config\repeateMsg_with_error.xml
+2023/03/02 20:04:01 E:/server_sim/main.go:64: go to end 
+2023/03/02 20:04:01 E:/server_sim/server/tcpserver.go:91: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/07 10:41:33 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:41:33 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 10:41:33 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 10:43:22 E:/server_sim/main.go:64: go to end 
+2023/03/07 10:49:58 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:49:58 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 10:49:58 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 10:50:35 E:/server_sim/main.go:64: go to end 
+2023/03/07 10:53:29 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:53:29 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9998"   Listening error: listen tcp: lookup tcp/9998": getaddrinfow: The specified class was not found.
+2023/03/07 10:53:29 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9998"
+2023/03/07 10:55:19 E:/server_sim/main.go:64: go to end 
+2023/03/07 10:55:24 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:55:24 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9998"
+2023/03/07 10:55:40 E:/server_sim/main.go:64: go to end 
+2023/03/07 10:55:40 E:/server_sim/server/tcpserver.go:93: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/07 10:58:23 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:58:23 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 10:59:26 E:/server_sim/main.go:64: go to end 
+2023/03/07 10:59:26 E:/server_sim/server/tcpserver.go:93: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/07 10:59:32 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 10:59:32 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:00:55 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:01:00 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:01:00 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:01:58 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:02:03 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:02:03 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:02:59 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:03:08 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:03:08 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:03:08 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 11:04:43 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:05:30 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:05:30 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:05:30 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 11:05:38 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:05:57 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:05:57 E:/server_sim/server/tcpserver.go:79: Local：ServerAddr="0.0.0.0:9999"   Listening error: listen tcp: lookup tcp/9999": getaddrinfow: The specified class was not found.
+2023/03/07 11:05:57 E:/server_sim/main.go:22: Server is on: ServerAddr="0.0.0.0:9999"
+2023/03/07 11:06:34 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:06:45 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:06:45 E:/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/07 11:14:25 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:14:25 E:/server_sim/server/tcpserver.go:93: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/07 11:19:15 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:19:15 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:19:15 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:19:15 E:/server_sim/main.go:22: Server is on: 
+2023/03/07 11:20:51 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:20:51 E:/server_sim/server/tcpserver.go:93: Local：   Accept error: accept tcp [::]:58033: use of closed network connection
+2023/03/07 11:20:52 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:20:52 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:20:52 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:20:52 E:/server_sim/main.go:22: Server is on: 
+2023/03/07 11:21:09 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:21:09 E:/server_sim/server/tcpserver.go:93: Local：   Accept error: accept tcp [::]:58047: use of closed network connection
+2023/03/07 11:21:12 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:21:12 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:21:12 E:/server_sim/server/tcpserver.go:172: match  failure
+2023/03/07 11:21:12 E:/server_sim/main.go:22: Server is on: 
+2023/03/07 11:21:22 E:/server_sim/main.go:64: go to end 
+2023/03/07 11:21:34 E:/server_sim/main.go:19: App gets startup ...
+2023/03/07 11:21:34 E:/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/10 22:35:12 /mnt/hgfs/server_sim/main.go:19: App gets startup ...
+2023/03/10 22:35:12 /mnt/hgfs/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/10 22:35:33 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:137, packType:INF, msgLen 106, sq 0 leftdata 0
+2023/03/10 22:35:33 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 7777
+2023/03/10 22:35:34 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=read tcp 127.0.0.1:9999->127.0.0.1:49734: read: connection reset by peer)
+2023/03/10 22:49:05 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:137, packType:INF, msgLen 106, sq 0 leftdata 0
+2023/03/10 22:49:05 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 7777
+2023/03/10 22:49:50 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=read tcp 127.0.0.1:9999->127.0.0.1:36312: read: connection reset by peer)
+2023/03/10 22:53:02 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:137, packType:INF, msgLen 106, sq 0 leftdata 0
+2023/03/10 22:53:02 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 7777
+2023/03/10 22:58:47 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/10 22:58:49 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:137, packType:INF, msgLen 106, sq 0 leftdata 0
+2023/03/10 22:58:49 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 7777
+2023/03/10 22:59:07 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/13 13:43:15 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 13:43:15 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 13:43:22 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/13 13:43:22 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/13 13:43:22 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 13:43:22 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 13:59:11 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/13 13:59:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 13:59:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:16:12 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:16:12 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:16:18 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:16:18 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:24:16 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:24:16 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:24:19 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:24:19 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:27:21 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:27:21 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:27:26 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:27:26 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:30:53 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:30:53 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:30:56 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:30:56 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:32:28 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:32:28 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:32:50 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/13 14:32:50 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/13 14:32:50 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:32:50 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:36:26 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:36:26 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:36:27 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:36:27 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:41:00 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:41:00 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:41:04 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/13 14:41:04 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/13 14:41:04 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:41:04 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:57:01 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:57:01 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:57:06 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:57:06 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 14:57:52 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 14:57:52 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 14:57:59 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 14:57:59 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 15:12:37 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 15:12:37 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 15:12:43 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 15:12:43 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 15:51:26 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 15:51:26 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 15:51:33 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 15:51:33 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 15:52:29 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 15:52:29 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 15:52:37 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 15:52:37 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 15:52:43 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/13 15:52:49 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 15:52:49 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 15:57:09 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 15:57:09 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:20:36 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:20:36 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:30:11 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:30:11 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:30:29 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:30:29 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 16:41:21 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:41:21 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:41:30 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:41:30 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 16:41:46 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/13 16:43:32 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:43:32 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:43:36 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:43:36 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 16:44:09 /mnt/mydir/server_sim/main.go:35: Get wrong sending pattern: send  
+2023/03/13 16:47:11 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:47:11 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:47:19 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:47:19 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 16:47:31 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/13 16:51:24 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/13 16:56:31 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:56:31 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:56:38 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:56:38 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 16:57:02 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/13 16:59:22 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 16:59:22 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 16:59:30 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 16:59:30 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 17:00:04 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/13 17:02:35 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 17:02:35 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 17:02:42 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 17:02:42 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 17:02:46 /mnt/mydir/server_sim/main.go:64: go to end 
+2023/03/13 17:02:46 /mnt/mydir/server_sim/server/tcpserver.go:93: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/13 17:02:50 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 17:02:50 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 17:02:56 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 17:02:56 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 17:03:26 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/13 17:05:27 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 17:05:27 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 17:05:35 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 17:05:35 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 17:07:33 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/13 17:20:34 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/13 17:20:34 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/13 17:20:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/13 17:20:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/13 17:21:21 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/13 17:23:27 /mnt/mydir/server_sim/main.go:35: Get wrong sending pattern: send 
+2023/03/13 19:09:44 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:02:39 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:02:39 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:04:11 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/14 11:04:28 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/14 11:04:28 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 11:04:28 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 11:05:14 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/14 11:05:14 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/14 11:05:14 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/14 11:06:57 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:07:17 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:07:17 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:07:17 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:07:17 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:08:33 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:08:43 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:08:43 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:08:43 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:08:43 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:10:41 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:10:42 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:10:42 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:10:45 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:13:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:13:24 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:14:31 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:14:44 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:14:44 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:14:44 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:14:44 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:14:45 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:18:30 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:18:30 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:18:30 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:18:30 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:18:30 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 11:19:08 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:19:08 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:19:08 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 11:19:08 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 11:19:56 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 11:19:56 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 11:19:56 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 11:19:57 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 11:19:57 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 14:35:59 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 14:46:04 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 14:46:04 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 14:46:04 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:138, packType:INF, msgLen 107, sq 0 leftdata 0
+2023/03/14 14:46:04 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 56789
+2023/03/14 14:47:08 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/14 14:47:21 /mnt/mydir/server_sim/msg/msgadmin.go:15: No file has index as 4
+2023/03/14 14:47:21 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 14:47:21 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 14:47:21 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 14:47:21 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/14 14:48:20 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 14:48:20 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/14 14:48:20 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/14 14:49:47 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 14:49:47 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/14 14:49:47 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 1
+2023/03/14 14:54:58 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 14:55:09 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 14:55:09 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 14:55:54 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/14 14:55:54 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 14:55:54 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 14:55:54 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 14:55:54 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/14 15:07:09 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 15:33:15 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 15:33:15 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 15:33:15 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 15:33:15 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 15:33:38 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/14 15:33:38 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 15:33:38 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 15:33:38 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 15:33:38 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/14 15:36:49 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 15:37:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 15:37:24 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 15:37:40 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/14 15:37:40 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 15:37:40 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 15:37:40 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 15:37:40 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 15:38:41 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 15:38:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/14 15:38:41 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/14 16:16:03 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 16:16:37 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:16:37 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:16:37 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 16:16:37 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 16:16:48 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 16:16:48 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:16:48 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:16:48 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 16:16:48 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 16:18:29 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 16:21:07 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 16:21:07 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 16:21:22 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 16:21:23 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:21:23 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:21:23 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 16:21:23 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 16:25:42 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 16:25:53 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 16:25:53 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 16:26:06 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 16:26:06 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:26:06 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:26:06 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 16:26:06 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/14 16:29:37 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 16:29:37 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/14 16:29:37 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/14 16:50:23 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 16:52:42 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:52:42 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:52:42 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 16:52:42 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 16:52:51 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 16:52:51 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:52:51 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:52:51 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 16:52:51 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/14 16:53:12 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 16:53:28 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 16:53:28 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 16:53:38 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/14 16:53:38 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 16:53:38 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 16:53:38 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 16:53:38 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/14 16:54:37 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 16:54:37 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/14 16:54:37 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/14 16:55:08 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/14 17:01:17 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/14 17:01:17 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/14 17:01:25 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/14 17:01:26 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/14 17:01:26 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/14 17:01:26 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/14 17:01:26 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/16 19:10:48 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/16 19:36:58 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/16 19:36:58 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/16 19:36:58 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/16 19:36:58 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/16 19:37:25 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/16 19:37:25 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/16 19:37:25 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/16 19:37:25 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/16 19:37:25 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/16 19:41:16 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/16 19:41:16 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/16 19:41:16 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/16 19:41:44 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/16 19:41:44 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/16 19:41:44 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 0
+2023/03/16 19:41:53 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/16 19:41:54 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 3 leftdata 0
+2023/03/16 19:41:54 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 3, errorcode 1
+2023/03/16 19:44:39 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/16 19:44:39 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/16 19:44:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/16 19:44:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/16 19:45:11 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/16 19:45:11 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/16 19:45:11 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/16 19:45:11 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/16 19:45:11 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/16 19:47:41 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/16 19:47:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/16 19:47:41 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/16 19:47:47 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/16 19:47:47 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/16 19:47:47 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 1
+2023/03/16 19:47:59 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/16 19:47:59 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 3 leftdata 0
+2023/03/16 19:47:59 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 3, errorcode 0
+2023/03/16 19:49:32 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/16 19:49:52 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/16 19:49:52 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/16 19:49:52 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/16 19:49:52 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/16 19:50:07 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/16 19:50:07 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/16 19:50:07 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/16 19:50:07 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/16 19:50:07 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/16 19:50:18 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/16 19:50:19 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/16 19:50:19 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/17 10:28:01 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:22:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:22:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:22:51 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:22:51 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:01 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 17:23:01 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 17:23:01 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:01 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:12 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:12 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:21 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:21 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:32 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:32 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:42 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:42 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:52 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:23:52 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:23:56 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:26:31 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:26:31 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:26:58 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 17:26:58 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 17:26:58 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 17:26:58 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 17:26:58 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/17 17:27:18 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/17 17:27:18 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/17 17:27:18 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/17 17:28:21 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/17 17:28:22 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/17 17:28:22 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 0
+2023/03/17 17:30:27 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 17:30:41 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 17:30:41 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 17:30:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 17:30:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 17:30:54 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 17:30:54 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 17:30:54 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 17:30:54 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 17:30:54 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/17 19:15:01 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:15:15 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:15:15 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:15:15 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:15:15 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:17:10 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:17:23 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:17:23 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:18:06 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:18:06 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:18:06 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:18:06 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 19:18:06 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/17 19:19:10 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/17 19:19:11 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/17 19:19:11 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/17 19:22:48 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:22:58 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:22:58 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:23:25 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:23:25 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:23:25 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:23:25 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 19:23:25 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/17 19:25:11 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:30:50 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:30:50 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:31:00 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/17 19:31:01 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:31:01 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:31:01 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 19:31:01 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/17 19:31:20 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:31:20 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/17 19:31:20 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/17 19:32:14 /mnt/mydir/server_sim/main.go:41: send failed
+2023/03/17 19:32:24 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:32:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/17 19:32:24 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 1
+2023/03/17 19:34:26 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:34:37 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:34:37 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:35:00 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:35:00 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:35:00 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:35:00 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 19:35:00 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/17 19:43:30 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/17 19:43:41 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:43:41 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:43:41 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/17 19:43:41 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/17 19:43:48 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/17 19:43:48 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/17 19:43:48 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/17 19:43:49 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/17 19:43:49 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 4
+2023/03/17 19:44:05 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/17 19:44:05 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/17 19:44:05 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/19 08:29:11 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/19 10:17:00 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/19 10:17:00 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/19 10:19:00 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/19 10:19:00 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/19 10:19:00 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/19 10:19:00 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/19 10:19:00 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/19 10:19:35 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/19 10:19:35 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/19 10:19:35 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/19 10:19:54 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/19 10:19:54 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/19 10:19:54 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 4
+2023/03/19 10:20:28 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/19 10:20:29 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 3 leftdata 0
+2023/03/19 10:20:29 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 3, errorcode 4
+2023/03/19 10:22:50 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/19 10:22:50 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 4 leftdata 0
+2023/03/19 10:22:50 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 4, errorcode 0
+2023/03/19 14:01:47 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/19 15:25:50 /mnt/mydir/server_sim/main.go:64: go to end 
+2023/03/19 15:25:50 /mnt/mydir/server_sim/server/tcpserver.go:93: Local：0.0.0.0:9999   Accept error: accept tcp [::]:9999: use of closed network connection
+2023/03/19 15:29:54 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/19 15:29:54 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/19 15:31:46 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/19 15:31:46 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/19 15:32:39 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/19 15:32:39 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/19 15:32:39 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/19 15:32:39 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/19 15:32:39 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/19 15:32:43 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/19 15:32:43 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/19 15:32:43 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/19 18:27:26 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/19 18:48:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/19 18:48:24 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/19 18:49:10 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/19 18:49:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:134, packType:INF, msgLen 103, sq 0 leftdata 0
+2023/03/19 18:49:24 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 3
+2023/03/19 18:49:35 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/20 13:16:21 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/20 13:16:21 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/20 13:16:52 /mnt/mydir/server_sim/main.go:64: go to end 
+2023/03/20 13:17:14 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/20 13:17:14 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/20 13:22:10 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/20 13:22:10 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/20 13:22:16 /mnt/mydir/server_sim/main.go:28: >>>>%!(EXTRA string=list
+, int=5)
+2023/03/20 13:23:11 /mnt/mydir/server_sim/main.go:19: App gets startup ...
+2023/03/20 13:23:11 /mnt/mydir/server_sim/main.go:22: Server is on: 0.0.0.0:9999
+2023/03/20 13:23:16 /mnt/mydir/server_sim/main.go:28: >>>>%!(EXTRA string=list, int=5)
+2023/03/20 15:20:18 F:/linux/share/server_sim/main.go:25: App gets startup ...
+2023/03/20 15:20:18 F:/linux/share/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 15:20:26 F:/linux/share/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=6)
+2023/03/20 15:20:53 /mnt/mydir/server_sim/main.go:25: App gets startup ...
+2023/03/20 15:20:53 /mnt/mydir/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 15:21:01 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/20 15:22:14 /mnt/mydir/server_sim/main.go:25: App gets startup ...at %!(EXTRA string=linux, int=1)
+2023/03/20 15:22:14 /mnt/mydir/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 15:24:36 /mnt/mydir/server_sim/main.go:25: App gets startup ...at linux,  lenght of end：1
+2023/03/20 15:24:36 /mnt/mydir/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 17:40:13 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+s,  lenght of end：2
+2023/03/20 15:24:55 F:/linux/share/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 18:10:35 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/20 18:11:45 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/20 18:43:21 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/20 19:01:31 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/20 19:06:09 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/20 19:06:48 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/20 19:06:48 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/20 19:07:12 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/20 19:08:03 /mnt/mydir/server_sim/main.go:25: App gets startup ...at linux,  lenght of end：1
+2023/03/20 19:08:03 /mnt/mydir/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/20 19:08:05 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/20 19:08:05 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/21 10:07:27 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：%!(NOVERB)%!(EXTRA string=EOF)
+2023/03/21 10:10:21 /mnt/mydir/server_sim/main.go:25: App gets startup ...at linux,  lenght of end：1
+2023/03/21 10:10:21 /mnt/mydir/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/21 10:10:38 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/21 10:10:51 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/21 10:10:51 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/21 10:11:20 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 10:11:20 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 10:11:21 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/21 10:42:00 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/21 10:42:00 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/21 10:42:18 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/21 10:42:26 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 10:42:26 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 10:42:27 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/21 10:42:27 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/21 10:42:27 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/21 10:42:27 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/21 10:42:52 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 1, int=11)
+2023/03/21 10:42:52 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/21 10:42:52 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/21 10:42:52 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/21 10:43:07 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 2, int=11)
+2023/03/21 10:43:07 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/21 10:43:07 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/21 10:43:07 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 0
+2023/03/21 10:53:06 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/21 10:53:14 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 10:53:14 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 10:53:15 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 3 leftdata 0
+2023/03/21 10:53:15 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 3, errorcode 1
+2023/03/21 10:55:06 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 10:55:06 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 10:55:07 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 4 leftdata 0
+2023/03/21 10:55:07 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 4, errorcode 1
+2023/03/21 10:58:49 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 10:58:49 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 10:58:49 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 5 leftdata 0
+2023/03/21 10:58:49 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 5, errorcode 1
+2023/03/21 11:01:01 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 11:01:01 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 11:01:01 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 6 leftdata 0
+2023/03/21 11:01:01 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 6, errorcode 1
+2023/03/21 11:10:39 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/21 11:12:31 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/21 11:13:53 /mnt/mydir/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/21 13:08:40 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/21 13:08:40 /mnt/mydir/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/21 13:09:14 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/21 13:09:24 /mnt/mydir/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/21 13:09:24 /mnt/mydir/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/21 13:09:24 /mnt/mydir/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/21 13:09:24 /mnt/mydir/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/21 13:09:24 /mnt/mydir/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/21 13:09:24 /mnt/mydir/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/22 17:11:18 /mnt/hgfs/server_sim/main.go:25: App gets startup ...at linux,  lenght of end：1
+2023/03/22 17:11:18 /mnt/hgfs/server_sim/main.go:28: Server is on: 0.0.0.0:9999
+2023/03/22 17:27:07 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/22 17:27:07 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/22 17:27:26 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/22 17:27:36 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 0, int=11)
+2023/03/22 17:27:36 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/22 17:27:37 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/22 17:27:37 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/22 17:27:37 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/22 17:27:37 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/22 17:28:04 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 2, int=11)
+2023/03/22 17:28:04 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/22 17:28:04 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/22 17:28:04 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 0
+2023/03/22 17:32:45 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/22 17:33:05 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 3, int=11)
+2023/03/22 17:33:05 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK_Cancel.xml
+2023/03/22 17:33:06 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 10:50:29 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 10:50:29 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 309
+2023/03/23 10:50:38 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 10:50:48 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 309 2, int=11)
+2023/03/23 10:50:48 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 10:50:49 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 10:50:49 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/23 10:50:49 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 10:53:10 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 10:53:10 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 310
+2023/03/23 10:53:16 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 310 2, int=11)
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/23 10:53:23 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 10:56:13 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 10:56:13 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 311
+2023/03/23 10:56:16 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 10:56:24 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 311 2, int=11)
+2023/03/23 10:56:24 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 10:56:25 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 10:56:25 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 10:56:25 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 10:56:25 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/23 10:56:25 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 10:57:43 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 10:57:43 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 312
+2023/03/23 10:57:53 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 312 2, int=11)
+2023/03/23 10:57:53 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 10:57:54 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 10:57:54 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 10:57:54 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 10:57:54 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/23 10:58:40 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 10:58:50 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 312 3, int=11)
+2023/03/23 10:58:50 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK_Cancel.xml
+2023/03/23 10:58:51 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 11:08:57 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 11:08:57 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 313
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 313 2, int=11)
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 11:09:09 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 0
+2023/03/23 11:09:29 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
+2023/03/23 11:10:40 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:136, packType:INF, msgLen 105, sq 0 leftdata 0
+2023/03/23 11:10:40 /mnt/hgfs/server_sim/server/tcpserver.go:34: train num get success: 314
+2023/03/23 11:10:43 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 11:10:52 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 0, int=11)
+2023/03/23 11:10:52 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/Msg.xml
+2023/03/23 11:10:53 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 11:10:53 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 11:10:53 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 0 leftdata 0
+2023/03/23 11:10:53 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 0, errorcode 1
+2023/03/23 11:11:12 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 1, int=11)
+2023/03/23 11:11:12 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg.xml
+2023/03/23 11:11:13 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 1 leftdata 0
+2023/03/23 11:11:13 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 1, errorcode 1
+2023/03/23 11:12:12 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 2, int=11)
+2023/03/23 11:12:12 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK.xml
+2023/03/23 11:12:12 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 2 leftdata 0
+2023/03/23 11:12:12 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 2, errorcode 0
+2023/03/23 11:12:16 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=list, int=5)
+2023/03/23 11:12:28 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 5, int=11)
+2023/03/23 11:12:28 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error.xml
+2023/03/23 11:12:28 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 3 leftdata 0
+2023/03/23 11:12:28 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 3, errorcode 4
+2023/03/23 11:13:33 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 4, int=11)
+2023/03/23 11:13:33 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_with_error _Cancel.xml
+2023/03/23 11:13:33 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 4 leftdata 0
+2023/03/23 11:13:33 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 4, errorcode 0
+2023/03/23 11:13:53 /mnt/hgfs/server_sim/main.go:34: >>>>%!(EXTRA string=send 314 3, int=11)
+2023/03/23 11:13:53 /mnt/hgfs/server_sim/msg/msgadmin.go:18: Send msg in file:config/repeateMsg_OK_Cancel.xml
+2023/03/23 11:13:54 /mnt/hgfs/server_sim/rspack/unpack.go:38: Error, parse package head failure
+2023/03/23 11:13:54 /mnt/hgfs/server_sim/server/tcpserver.go:144: unpack failed 
+2023/03/23 11:13:54 /mnt/hgfs/server_sim/server/tcpserver.go:141: unpack msg: pack size:160, packType:ACK, msgLen 129, sq 5 leftdata 0
+2023/03/23 11:13:54 /mnt/hgfs/server_sim/server/tcpserver.go:43: Get ACK : sq 5, errorcode 0
+2023/03/23 18:21:39 /mnt/hgfs/server_sim/server/tcpserver.go:128: Read error：EOF
